@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+Hello, everyone!
+
+My name is Kenadi. You probably already know that, as I've written it no less than 3 times. 
